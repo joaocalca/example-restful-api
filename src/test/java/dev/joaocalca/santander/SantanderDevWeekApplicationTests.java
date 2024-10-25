@@ -1,10 +1,10 @@
-package dev.joaocalca.claro;
+package dev.joaocalca.santander;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ClaroBootcampApplicationTests {
+class SantanderDevWeekApplicationTests {
 
 	@Test
 	void contextLoads() {

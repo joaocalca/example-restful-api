@@ -1,13 +1,13 @@
-package dev.joaocalca.claro;
+package dev.joaocalca.santander;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClaroBootcampApplication {
+public class SantanderDevWeekApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClaroBootcampApplication.class, args);
+		SpringApplication.run(SantanderDevWeekApplication.class, args);
 	}
 
 }

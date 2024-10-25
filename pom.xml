@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.joaocalca</groupId>
-	<artifactId>claro-bootcamp</artifactId>
+	<artifactId>santander-dev-week-2023</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>claro-bootcamp</name>
-	<description>Claro Bootcamp</description>
+	<name>santander-dev-week-2023</name>
+	<description>Santander Dev Week</description>
 	<url/>
 	<licenses>
 		<license/>
